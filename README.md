@@ -1,7 +1,7 @@
-# Manhunt-fix-Windows-10
-Manhunt-Fix-Windows-10-for-all-builds
+# Manhunt-fix-Windows-11
+Manhunt-Fix-Windows-11-for-all-builds
 
-How to get Manhunt working on Windows 10 (21H1) and Windows 11:
+How to get Manhunt working on Windows 11:
 # NB!The latest fix without any folders is here it does not require previous ones and works across builds moved all the old fixes to other repo!
 
 0. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
@@ -54,8 +54,8 @@ Manually:
 That's it,you are good to go,enjoy the game.
 
 # All the credit goes to the creators of the original Manhunt fix patch AJ Collins,credit goes to ThirteenAG for .ini FPS limiter visit his site for more goodness:https://thirteenag.github.io/wfp 
-# Combination of fixes,testing,manual configuration is done by gimalaji_blake. Hopefully will work for everyone and will save time looking for workarounds.
+# Combination of fixes,testing,manual configuration is done by silentgameplayzz. Hopefully will work for everyone and will save time looking for workarounds.
 # NB added wine-based wrappers for Windows 10 2004 build support. 
 
 # Cheers! 
-# gimalaji_blake
+# silentgameplayzz
