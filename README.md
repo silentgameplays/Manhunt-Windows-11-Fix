@@ -57,5 +57,7 @@ That's it,you are good to go,enjoy the game.
 # Combination of fixes,testing,manual configuration is done by silentgameplayzz. Hopefully will work for everyone and will save time looking for workarounds.
 # NB added wine-based wrappers for Windows 10 2004 build support. 
 
+# NB for all the users,please report any issues to the issues section in the github repo,not on my gaming youtube channel under unrelated videos!
+
 # Cheers! 
 # silentgamepls
