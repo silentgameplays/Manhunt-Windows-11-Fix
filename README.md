@@ -22,6 +22,9 @@ Manually:
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
+# Fixing audio loops without removing/renaming the files by using ermaccers audio fix:
+* There is a folder called Manhunt Audio Fix Experimental copy/paste the files from that folder into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
+
 # NB! For Dual GPU laptops ONLY!Experimental might not work in every case:
 1. Download everything extract.
 
@@ -57,6 +60,7 @@ That's it,you are good to go,enjoy the game.
 # Combination of fixes,testing,manual configuration is done by silentgamepls. Hopefully will work for everyone and will save time looking for workarounds.
 # NB added wine-based wrappers for Windows 10 2004 build support. 
 
+# NB added audio fix by ermaccer,experimental,check his repo also: https://github.com/ermaccer/Manhunt.AudioFix/releases/tag/1.0b5
 # NB for all the users,please report any issues to the issues section in the github repo,not on my gaming youtube channel under unrelated videos!
 
 # Cheers! 
