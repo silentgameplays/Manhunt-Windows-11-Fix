@@ -10,7 +10,7 @@ How to get Manhunt working on Windows 11:
 
 # NB!Currently based on user feedback there are more folders in this fix: 
 
-2. Download and extract all the files from this fix corresponding to your Windows 10 build.
+2. Download and extract all the files from this fix corresponding to your Windows 11 build.
 
 3. Copy/Paste from the required folder into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
 
