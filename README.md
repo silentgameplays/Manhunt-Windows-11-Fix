@@ -65,6 +65,7 @@ That's it,you are good to go,enjoy the game.
 # NB Updated to Windows 11 22H2 build version
 # NB added audio fix by ermaccer,experimental,check his repo also: https://github.com/ermaccer/Manhunt.AudioFix/releases/tag/1.0b5
 # NB Audio Fix Has been removed from the main fix and placed into a separate repository https://github.com/fkortsagin/Manhunt-Fix-Alternative due to reports of false positives from Virus Total,related to using the ThirteenAG's dinput8.dll wrapper and ermaccers AudioFix.asi required for the audio fix to work,use at your own risk if you want functional audio in game and/or if you require the ThirteenAG's Widescreen Patch.
+# NB! Added folder Manhunt Fix Newer Version with the latest Wine Build, use the files there in  case you have trouble detecting newer hardware.
 # User safety is a priority,if you require functional audio and/or ThirteenAG's Widescreen Patch please use the files provided in https://github.com/fkortsagin/Manhunt-Fix-Alternative repository
 # NB for all the users,please report any issues to the issues section in the github repo,not on my gaming youtube channel under unrelated videos!
 
